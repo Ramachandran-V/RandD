@@ -61,8 +61,3 @@
 #*.PDF   diff=astextplain
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
-
-
-$ git merge web.config
-$ cat web.config
-# $Samplebranch: Sample$
